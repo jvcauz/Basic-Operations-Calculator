@@ -1,1 +1,9 @@
+# IntelliJ IDEA internal files
+.idea/
 *.iml
+*.iws
+
+# Compilation outputs
+out/
+target/
+build/
