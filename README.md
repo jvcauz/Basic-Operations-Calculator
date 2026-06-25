@@ -7,6 +7,13 @@ A simple calculator developed in Java to practice programming logic fundamentals
 - User input handling
 - Basic arithmetic operations
 
+## Available Operations
+
+- Addition
+- Subtraction
+- Multiplication
+- Division
+
 ## Requirements
 
 - JDK 21
